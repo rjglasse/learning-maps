@@ -1,0 +1,1039 @@
+<svg width="3082pt" height="901pt" viewBox="0 0 3082 901" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 896.9877)">
+<title>G</title>
+<polygon fill="#282c34" stroke="transparent" points="-4,4 -4,-896.9877 3077.6868,-896.9877 3077.6868,4 -4,4"></polygon>
+<!-- Key Concepts -->
+<g id="node1" class="node">
+<title>Key Concepts</title>
+<ellipse fill="#ffff00" stroke="#ffffff" cx="1917.0651" cy="-874.9877" rx="71.2849" ry="18"></ellipse>
+<text text-anchor="middle" x="1917.0651" y="-870.7877" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Key Concepts</text>
+</g>
+<!-- Organise -->
+<g id="node2" class="node">
+<title>Organise</title>
+<ellipse fill="#ffff00" stroke="#ffffff" cx="966.0651" cy="-719.5721" rx="50.4168" ry="18"></ellipse>
+<text text-anchor="middle" x="966.0651" y="-715.3721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Organise</text>
+</g>
+<!-- Key Concepts&#45;&#45;Organise -->
+<g id="edge1" class="edge">
+<title>Key Concepts--Organise</title>
+<path fill="none" stroke="#ff0000" d="M1857.2155,-865.2069C1681.291,-836.4567 1168.3789,-752.6349 1011.9148,-727.065"></path>
+</g>
+<!-- Decide -->
+<g id="node3" class="node">
+<title>Decide</title>
+<ellipse fill="#ffff00" stroke="#ffffff" cx="1654.0651" cy="-802.9877" rx="41.1684" ry="18"></ellipse>
+<text text-anchor="middle" x="1654.0651" y="-798.7877" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Decide</text>
+</g>
+<!-- Key Concepts&#45;&#45;Decide -->
+<g id="edge2" class="edge">
+<title>Key Concepts--Decide</title>
+<path fill="none" stroke="#ff0000" d="M1868.5203,-861.6979C1816.5725,-847.4764 1735.432,-825.2631 1689.286,-812.6299"></path>
+</g>
+<!-- Repeat -->
+<g id="node4" class="node">
+<title>Repeat</title>
+<ellipse fill="#ffff00" stroke="#ffffff" cx="2163.0651" cy="-802.9877" rx="42.3301" ry="18"></ellipse>
+<text text-anchor="middle" x="2163.0651" y="-798.7877" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Repeat</text>
+</g>
+<!-- Key Concepts&#45;&#45;Repeat -->
+<g id="edge3" class="edge">
+<title>Key Concepts--Repeat</title>
+<path fill="none" stroke="#ff0000" d="M1963.625,-861.3604C2011.5418,-847.336 2085.1008,-825.8065 2128.215,-813.1877"></path>
+</g>
+<!-- Store -->
+<g id="node5" class="node">
+<title>Store</title>
+<ellipse fill="#ffff00" stroke="#ffffff" cx="591.0651" cy="-802.9877" rx="34.2239" ry="18"></ellipse>
+<text text-anchor="middle" x="591.0651" y="-798.7877" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Store</text>
+</g>
+<!-- Key Concepts&#45;&#45;Store -->
+<g id="edge4" class="edge">
+<title>Key Concepts--Store</title>
+<path fill="none" stroke="#ff0000" d="M1847.1759,-871.1928C1604.1376,-857.9962 801.0639,-814.3904 625.2667,-804.8448"></path>
+</g>
+<!-- Evaluate -->
+<g id="node6" class="node">
+<title>Evaluate</title>
+<ellipse fill="#ffff00" stroke="#ffffff" cx="1917.0651" cy="-802.9877" rx="48.7101" ry="18"></ellipse>
+<text text-anchor="middle" x="1917.0651" y="-798.7877" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Evaluate</text>
+</g>
+<!-- Key Concepts&#45;&#45;Evaluate -->
+<g id="edge5" class="edge">
+<title>Key Concepts--Evaluate</title>
+<path fill="none" stroke="#ff0000" d="M1917.0651,-856.8191C1917.0651,-845.9877 1917.0651,-832.2753 1917.0651,-821.401"></path>
+</g>
+<!-- Test -->
+<g id="node7" class="node">
+<title>Test</title>
+<ellipse fill="#ffff00" stroke="#ffffff" cx="2473.0651" cy="-802.9877" rx="29.6339" ry="18"></ellipse>
+<text text-anchor="middle" x="2473.0651" y="-798.7877" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Test</text>
+</g>
+<!-- Key Concepts&#45;&#45;Test -->
+<g id="edge6" class="edge">
+<title>Key Concepts--Test</title>
+<path fill="none" stroke="#ff0000" d="M1980.5745,-866.7635C2100.8161,-851.1926 2357.4138,-817.9641 2443.9086,-806.7634"></path>
+</g>
+<!-- Document -->
+<g id="node8" class="node">
+<title>Document</title>
+<ellipse fill="#ffff00" stroke="#ffffff" cx="2763.0651" cy="-802.9877" rx="55.0729" ry="18"></ellipse>
+<text text-anchor="middle" x="2763.0651" y="-798.7877" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Document</text>
+</g>
+<!-- Key Concepts&#45;&#45;Document -->
+<g id="edge7" class="edge">
+<title>Key Concepts--Document</title>
+<path fill="none" stroke="#ff0000" d="M1984.5112,-869.2476C2147.8462,-855.3468 2562.0249,-820.0975 2709.7259,-807.5272"></path>
+</g>
+<!-- Method -->
+<g id="node20" class="node">
+<title>Method</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="1024.0651" cy="-624.7408" rx="43.4746" ry="18"></ellipse>
+<text text-anchor="middle" x="1024.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Method</text>
+</g>
+<!-- Organise&#45;&#45;Method -->
+<g id="edge16" class="edge">
+<title>Organise--Method</title>
+<path fill="none" stroke="#ff0000" d="M976.9745,-701.735C987.3439,-684.7807 1002.8514,-659.4257 1013.2047,-642.4978"></path>
+</g>
+<!-- Statement -->
+<g id="node22" class="node">
+<title>Statement</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="908.0651" cy="-624.7408" rx="55.0884" ry="18"></ellipse>
+<text text-anchor="middle" x="908.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Statement</text>
+</g>
+<!-- Organise&#45;&#45;Statement -->
+<g id="edge17" class="edge">
+<title>Organise--Statement</title>
+<path fill="none" stroke="#ff0000" d="M955.1557,-701.735C944.7863,-684.7807 929.2788,-659.4257 918.9255,-642.4978"></path>
+</g>
+<!-- Class -->
+<g id="node25" class="node">
+<title>Class</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="715.0651" cy="-184.8313" rx="35.3528" ry="18"></ellipse>
+<text text-anchor="middle" x="715.0651" y="-180.6313" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Class</text>
+</g>
+<!-- Organise&#45;&#45;Class -->
+<g id="edge15" class="edge">
+<title>Organise--Class</title>
+<path fill="none" stroke="#ff0000" d="M931.0832,-706.6231C871.586,-682.0736 757.0651,-622.7607 757.0651,-529.9095 757.0651,-529.9095 757.0651,-529.9095 757.0651,-351.6626 757.0651,-300.8093 752.3502,-287.6369 738.0651,-238.8313 734.4012,-226.3133 728.6512,-212.8133 723.8171,-202.4428"></path>
+</g>
+<!-- Conditional\nStatement -->
+<g id="node24" class="node">
+<title>Conditional\nStatement</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="1299.0651" cy="-719.5721" rx="60.6407" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="1299.0651" y="-723.7721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Conditional</text>
+<text text-anchor="middle" x="1299.0651" y="-706.9721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Statement</text>
+</g>
+<!-- Decide&#45;&#45;Conditional\nStatement -->
+<g id="edge8" class="edge">
+<title>Decide--Conditional\nStatement</title>
+<path fill="none" stroke="#ff0000" d="M1617.7422,-794.4528C1555.2738,-779.7744 1427.1543,-749.6696 1353.8169,-732.4373"></path>
+</g>
+<!-- Iteration -->
+<g id="node46" class="node">
+<title>Iteration</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2224.0651" cy="-719.5721" rx="45.8369" ry="18"></ellipse>
+<text text-anchor="middle" x="2224.0651" y="-715.3721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Iteration</text>
+</g>
+<!-- Repeat&#45;&#45;Iteration -->
+<g id="edge23" class="edge">
+<title>Repeat--Iteration</title>
+<path fill="none" stroke="#ff0000" d="M2175.7043,-785.7039C2186.1036,-771.4832 2200.7802,-751.4134 2211.2322,-737.1207"></path>
+</g>
+<!-- Field -->
+<g id="node31" class="node">
+<title>Field</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="571.0651" cy="-719.5721" rx="31.9166" ry="18"></ellipse>
+<text text-anchor="middle" x="571.0651" y="-715.3721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Field</text>
+</g>
+<!-- Store&#45;&#45;Field -->
+<g id="edge36" class="edge">
+<title>Store--Field</title>
+<path fill="none" stroke="#ff0000" d="M586.7254,-784.8878C583.3707,-770.8962 578.7489,-751.6194 575.3963,-737.6367"></path>
+</g>
+<!-- Operator -->
+<g id="node23" class="node">
+<title>Operator</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="1790.0651" cy="-719.5721" rx="49.2705" ry="18"></ellipse>
+<text text-anchor="middle" x="1790.0651" y="-715.3721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Operator</text>
+</g>
+<!-- Evaluate&#45;&#45;Operator -->
+<g id="edge69" class="edge">
+<title>Evaluate--Operator</title>
+<path fill="none" stroke="#ff0000" d="M1893.1774,-787.2979C1870.6155,-772.4789 1836.9452,-750.3637 1814.2775,-735.4752"></path>
+</g>
+<!-- Compilation -->
+<g id="node66" class="node">
+<title>Compilation</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1956.0651" cy="-719.5721" rx="62.0098" ry="18"></ellipse>
+<text text-anchor="middle" x="1956.0651" y="-715.3721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Compilation</text>
+</g>
+<!-- Evaluate&#45;&#45;Compilation -->
+<g id="edge67" class="edge">
+<title>Evaluate--Compilation</title>
+<path fill="none" stroke="#ff0000" d="M1925.5275,-784.8878C1932.0691,-770.8962 1941.0818,-751.6194 1947.6192,-737.6367"></path>
+</g>
+<!-- Runtime -->
+<g id="node67" class="node">
+<title>Runtime</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1497.0651" cy="-719.5721" rx="46.9651" ry="18"></ellipse>
+<text text-anchor="middle" x="1497.0651" y="-715.3721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Runtime</text>
+</g>
+<!-- Evaluate&#45;&#45;Runtime -->
+<g id="edge68" class="edge">
+<title>Evaluate--Runtime</title>
+<path fill="none" stroke="#ff0000" d="M1874.0915,-794.4528C1793.1814,-778.3833 1619.1806,-743.8253 1539.0419,-727.909"></path>
+</g>
+<!-- Method\nCalling -->
+<g id="node68" class="node">
+<title>Method\nCalling</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2080.0651" cy="-719.5721" rx="44.1459" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="2080.0651" y="-723.7721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Method</text>
+<text text-anchor="middle" x="2080.0651" y="-706.9721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Calling</text>
+</g>
+<!-- Evaluate&#45;&#45;Method\nCalling -->
+<g id="edge70" class="edge">
+<title>Evaluate--Method\nCalling</title>
+<path fill="none" stroke="#ff0000" d="M1947.1493,-788.7229C1969.3745,-778.0628 2000.2906,-762.9784 2027.0651,-748.9877 2033.3142,-745.7223 2039.9226,-742.1513 2046.2742,-738.6583"></path>
+</g>
+<!-- Bug -->
+<g id="node77" class="node">
+<title>Bug</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2473.0651" cy="-719.5721" rx="28.4283" ry="18"></ellipse>
+<text text-anchor="middle" x="2473.0651" y="-715.3721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Bug</text>
+</g>
+<!-- Test&#45;&#45;Bug -->
+<g id="edge88" class="edge">
+<title>Test--Bug</title>
+<path fill="none" stroke="#ff0000" d="M2473.0651,-784.8878C2473.0651,-770.8962 2473.0651,-751.6194 2473.0651,-737.6367"></path>
+</g>
+<!-- Strategy -->
+<g id="node79" class="node">
+<title>Strategy</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2652.0651" cy="-719.5721" rx="46.9844" ry="18"></ellipse>
+<text text-anchor="middle" x="2652.0651" y="-715.3721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Strategy</text>
+</g>
+<!-- Test&#45;&#45;Strategy -->
+<g id="edge91" class="edge">
+<title>Test--Strategy</title>
+<path fill="none" stroke="#ff0000" d="M2496.8349,-791.9108C2529.074,-776.887 2586.6727,-750.0455 2621.916,-733.6218"></path>
+</g>
+<!-- javadoc -->
+<g id="node40" class="node">
+<title>javadoc</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="2763.0651" cy="-719.5721" rx="44.1198" ry="18"></ellipse>
+<text text-anchor="middle" x="2763.0651" y="-715.3721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">javadoc</text>
+</g>
+<!-- Document&#45;&#45;javadoc -->
+<g id="edge97" class="edge">
+<title>Document--javadoc</title>
+<path fill="none" stroke="#ff0000" d="M2763.0651,-784.8878C2763.0651,-770.8962 2763.0651,-751.6194 2763.0651,-737.6367"></path>
+</g>
+<!-- Comment -->
+<g id="node41" class="node">
+<title>Comment</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="2881.0651" cy="-719.5721" rx="52.7662" ry="18"></ellipse>
+<text text-anchor="middle" x="2881.0651" y="-715.3721" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Comment</text>
+</g>
+<!-- Document&#45;&#45;Comment -->
+<g id="edge98" class="edge">
+<title>Document--Comment</title>
+<path fill="none" stroke="#ff0000" d="M2786.3781,-786.5075C2807.0651,-771.8836 2837.1282,-750.6316 2857.8005,-736.0181"></path>
+</g>
+<!-- Array -->
+<g id="node9" class="node">
+<title>Array</title>
+<ellipse fill="#00ffff" stroke="#ffffff" cx="392.0651" cy="-435.0782" rx="34.2065" ry="18"></ellipse>
+<text text-anchor="middle" x="392.0651" y="-430.8782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Array</text>
+</g>
+<!-- HashMap -->
+<g id="node10" class="node">
+<title>HashMap</title>
+<ellipse fill="#00ffff" stroke="#ffffff" cx="282.0651" cy="-351.6626" rx="52.206" ry="18"></ellipse>
+<text text-anchor="middle" x="282.0651" y="-347.4626" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">HashMap</text>
+</g>
+<!-- Generic\nType -->
+<g id="node65" class="node">
+<title>Generic\nType</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="163.0651" cy="-268.2469" rx="45.9318" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="163.0651" y="-272.4469" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Generic</text>
+<text text-anchor="middle" x="163.0651" y="-255.6469" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Type</text>
+</g>
+<!-- HashMap&#45;&#45;Generic\nType -->
+<g id="edge66" class="edge">
+<title>HashMap--Generic\nType</title>
+<path fill="none" stroke="#ff0000" d="M258.8382,-335.3812C240.4404,-322.4848 214.5605,-304.3438 194.3407,-290.1702"></path>
+</g>
+<!-- HashSet -->
+<g id="node11" class="node">
+<title>HashSet</title>
+<ellipse fill="#00ffff" stroke="#ffffff" cx="48.0651" cy="-351.6626" rx="48.1303" ry="18"></ellipse>
+<text text-anchor="middle" x="48.0651" y="-347.4626" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">HashSet</text>
+</g>
+<!-- HashSet&#45;&#45;Generic\nType -->
+<g id="edge65" class="edge">
+<title>HashSet--Generic\nType</title>
+<path fill="none" stroke="#ff0000" d="M70.2383,-335.5792C87.8608,-322.7966 112.7115,-304.7711 132.2661,-290.5871"></path>
+</g>
+<!-- ArrayList -->
+<g id="node12" class="node">
+<title>ArrayList</title>
+<ellipse fill="#00ffff" stroke="#ffffff" cx="163.0651" cy="-351.6626" rx="49.2531" ry="18"></ellipse>
+<text text-anchor="middle" x="163.0651" y="-347.4626" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">ArrayList</text>
+</g>
+<!-- ArrayList&#45;&#45;Generic\nType -->
+<g id="edge64" class="edge">
+<title>ArrayList--Generic\nType</title>
+<path fill="none" stroke="#ff0000" d="M163.0651,-333.5626C163.0651,-323.1168 163.0651,-309.7252 163.0651,-297.7901"></path>
+</g>
+<!-- String -->
+<g id="node13" class="node">
+<title>String</title>
+<ellipse fill="#00ffff" stroke="#ffffff" cx="672.0651" cy="-351.6626" rx="36.011" ry="18"></ellipse>
+<text text-anchor="middle" x="672.0651" y="-347.4626" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">String</text>
+</g>
+<!-- Immutability -->
+<g id="node62" class="node">
+<title>Immutability</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="534.0651" cy="-268.2469" rx="62.5721" ry="18"></ellipse>
+<text text-anchor="middle" x="534.0651" y="-264.0469" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Immutability</text>
+</g>
+<!-- String&#45;&#45;Immutability -->
+<g id="edge57" class="edge">
+<title>String--Immutability</title>
+<path fill="none" stroke="#ff0000" d="M648.967,-337.7007C624.7206,-323.0447 586.6349,-300.0233 561.0287,-284.5454"></path>
+</g>
+<!-- Reference\nType -->
+<g id="node63" class="node">
+<title>Reference\nType</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="672.0651" cy="-268.2469" rx="56.9443" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="672.0651" y="-272.4469" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Reference</text>
+<text text-anchor="middle" x="672.0651" y="-255.6469" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Type</text>
+</g>
+<!-- String&#45;&#45;Reference\nType -->
+<g id="edge58" class="edge">
+<title>String--Reference\nType</title>
+<path fill="none" stroke="#ff0000" d="M672.0651,-333.5626C672.0651,-323.1168 672.0651,-309.7252 672.0651,-297.7901"></path>
+</g>
+<!-- Char -->
+<g id="node14" class="node">
+<title>Char</title>
+<ellipse fill="#00ffff" stroke="#ffffff" cx="586.0651" cy="-351.6626" rx="31.9185" ry="18"></ellipse>
+<text text-anchor="middle" x="586.0651" y="-347.4626" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Char</text>
+</g>
+<!-- Primative\nType -->
+<g id="node64" class="node">
+<title>Primative\nType</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="401.0651" cy="-268.2469" rx="52.614" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="401.0651" y="-272.4469" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Primative</text>
+<text text-anchor="middle" x="401.0651" y="-255.6469" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Type</text>
+</g>
+<!-- Char&#45;&#45;Primative\nType -->
+<g id="edge62" class="edge">
+<title>Char--Primative\nType</title>
+<path fill="none" stroke="#ff0000" d="M560.4837,-340.4108C555.378,-338.171 550.0526,-335.839 545.0651,-333.6626 508.2118,-317.5807 498.626,-314.3986 462.0651,-297.6626 455.1163,-294.4817 447.7636,-291.0197 440.6601,-287.6245"></path>
+</g>
+<!-- Double -->
+<g id="node15" class="node">
+<title>Double</title>
+<ellipse fill="#00ffff" stroke="#ffffff" cx="494.0651" cy="-351.6626" rx="41.7482" ry="18"></ellipse>
+<text text-anchor="middle" x="494.0651" y="-347.4626" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Double</text>
+</g>
+<!-- Double&#45;&#45;Primative\nType -->
+<g id="edge63" class="edge">
+<title>Double--Primative\nType</title>
+<path fill="none" stroke="#ff0000" d="M475.6913,-335.1823C462.3515,-323.2173 444.065,-306.8154 428.9327,-293.2426"></path>
+</g>
+<!-- Boolean -->
+<g id="node16" class="node">
+<title>Boolean</title>
+<ellipse fill="#00ffff" stroke="#ffffff" cx="994.0651" cy="-351.6626" rx="46.4222" ry="18"></ellipse>
+<text text-anchor="middle" x="994.0651" y="-347.4626" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Boolean</text>
+</g>
+<!-- Boolean&#45;&#45;Primative\nType -->
+<g id="edge61" class="edge">
+<title>Boolean--Primative\nType</title>
+<path fill="none" stroke="#ff0000" d="M948.0009,-349.0446C836.216,-342.3615 553.0816,-323.3665 462.0651,-297.6626 454.2579,-295.4577 446.2278,-292.3045 438.6621,-288.8743"></path>
+</g>
+<!-- Integer -->
+<g id="node17" class="node">
+<title>Integer</title>
+<ellipse fill="#00ffff" stroke="#ffffff" cx="393.0651" cy="-351.6626" rx="41.1838" ry="18"></ellipse>
+<text text-anchor="middle" x="393.0651" y="-347.4626" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Integer</text>
+</g>
+<!-- Integer&#45;&#45;Primative\nType -->
+<g id="edge60" class="edge">
+<title>Integer--Primative\nType</title>
+<path fill="none" stroke="#ff0000" d="M394.801,-333.5626C395.8028,-323.1168 397.0871,-309.7252 398.2318,-297.7901"></path>
+</g>
+<!-- If / Else -->
+<g id="node18" class="node">
+<title>If / Else</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="1359.0651" cy="-624.7408" rx="43.4707" ry="18"></ellipse>
+<text text-anchor="middle" x="1359.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">If / Else</text>
+</g>
+<!-- Main -->
+<g id="node19" class="node">
+<title>Main</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="1365.0651" cy="-529.9095" rx="31.9185" ry="18"></ellipse>
+<text text-anchor="middle" x="1365.0651" y="-525.7095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Main</text>
+</g>
+<!-- Method&#45;&#45;Main -->
+<g id="edge19" class="edge">
+<title>Method--Main</title>
+<path fill="none" stroke="#ff0000" d="M1062.753,-616.6916C1136.2307,-601.3049 1290.75,-568.4357 1314.0651,-559.3251 1324.5375,-555.233 1335.4264,-549.2265 1344.4403,-543.7063"></path>
+</g>
+<!-- Constructor -->
+<g id="node21" class="node">
+<title>Constructor</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="846.0651" cy="-529.9095" rx="60.8699" ry="18"></ellipse>
+<text text-anchor="middle" x="846.0651" y="-525.7095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Constructor</text>
+</g>
+<!-- Method&#45;&#45;Constructor -->
+<g id="edge18" class="edge">
+<title>Method--Constructor</title>
+<path fill="none" stroke="#ff0000" d="M998.5115,-610.0441C990.1214,-605.2835 980.7273,-600.0218 972.0651,-595.3251 939.7807,-577.8205 902.3935,-558.5321 876.7802,-545.4663"></path>
+</g>
+<!-- Instance\nMethod -->
+<g id="node43" class="node">
+<title>Instance\nMethod</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1080.0651" cy="-529.9095" rx="48.9568" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="1080.0651" y="-534.1095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Instance</text>
+<text text-anchor="middle" x="1080.0651" y="-517.3095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Method</text>
+</g>
+<!-- Method&#45;&#45;Instance\nMethod -->
+<g id="edge20" class="edge">
+<title>Method--Instance\nMethod</title>
+<path fill="none" stroke="#ff0000" d="M1034.5983,-606.9037C1042.7726,-593.0613 1054.2537,-573.6189 1063.6334,-557.7352"></path>
+</g>
+<!-- Class\nMethod -->
+<g id="node44" class="node">
+<title>Class\nMethod</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="969.0651" cy="-529.9095" rx="44.1459" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="969.0651" y="-534.1095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Class</text>
+<text text-anchor="middle" x="969.0651" y="-517.3095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Method</text>
+</g>
+<!-- Method&#45;&#45;Class\nMethod -->
+<g id="edge21" class="edge">
+<title>Method--Class\nMethod</title>
+<path fill="none" stroke="#ff0000" d="M1013.72,-606.9037C1005.6295,-592.954 994.2406,-573.3172 984.9895,-557.3665"></path>
+</g>
+<!-- Boolean\nOperator -->
+<g id="node26" class="node">
+<title>Boolean\nOperator</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="1245.0651" cy="-435.0782" rx="50.2387" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="1245.0651" y="-439.2782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Boolean</text>
+<text text-anchor="middle" x="1245.0651" y="-422.4782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Operator</text>
+</g>
+<!-- Operator&#45;&#45;Boolean\nOperator -->
+<g id="edge87" class="edge">
+<title>Operator--Boolean\nOperator</title>
+<path fill="none" stroke="#ff0000" d="M1748.2117,-709.968C1699.1214,-697.8847 1621.9036,-676.0534 1602.0651,-654.1564 1554.9006,-602.0981 1615.5897,-549.2977 1565.0651,-500.4939 1545.6924,-481.7809 1378.8065,-454.8113 1294.0436,-442.1489"></path>
+</g>
+<!-- Arithmetic\nOperator -->
+<g id="node27" class="node">
+<title>Arithmetic\nOperator</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="1666.0651" cy="-624.7408" rx="55.1168" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="1666.0651" y="-628.9408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Arithmetic</text>
+<text text-anchor="middle" x="1666.0651" y="-612.1408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Operator</text>
+</g>
+<!-- Operator&#45;&#45;Arithmetic\nOperator -->
+<g id="edge85" class="edge">
+<title>Operator--Arithmetic\nOperator</title>
+<path fill="none" stroke="#ff0000" d="M1768.7487,-703.27C1749.2217,-688.3363 1720.0548,-666.0304 1697.7907,-649.0035"></path>
+</g>
+<!-- Equality\nOperator -->
+<g id="node28" class="node">
+<title>Equality\nOperator</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="1790.0651" cy="-624.7408" rx="50.2387" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="1790.0651" y="-628.9408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Equality</text>
+<text text-anchor="middle" x="1790.0651" y="-612.1408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Operator</text>
+</g>
+<!-- Operator&#45;&#45;Equality\nOperator -->
+<g id="edge86" class="edge">
+<title>Operator--Equality\nOperator</title>
+<path fill="none" stroke="#ff0000" d="M1790.0651,-701.2876C1790.0651,-687.9398 1790.0651,-669.5633 1790.0651,-654.1613"></path>
+</g>
+<!-- Precedence -->
+<g id="node76" class="node">
+<title>Precedence</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1921.0651" cy="-624.7408" rx="62.6165" ry="18"></ellipse>
+<text text-anchor="middle" x="1921.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Precedence</text>
+</g>
+<!-- Operator&#45;&#45;Precedence -->
+<g id="edge84" class="edge">
+<title>Operator--Precedence</title>
+<path fill="none" stroke="#ff0000" d="M1812.2875,-703.4852C1836.0847,-686.2583 1873.6773,-659.0449 1897.85,-641.5462"></path>
+</g>
+<!-- Conditional\nStatement&#45;&#45;Boolean -->
+<g id="edge9" class="edge">
+<title>Conditional\nStatement--Boolean</title>
+<path fill="none" stroke="#ff0000" d="M1246.4569,-704.6614C1220.0416,-694.5531 1189.7624,-678.5009 1171.0651,-654.1564 1128.5176,-598.7583 1170.9528,-562.1189 1138.0651,-500.4939 1107.4261,-443.0824 1048.1279,-392.4546 1016.0127,-367.7175"></path>
+</g>
+<!-- Conditional\nStatement&#45;&#45;If / Else -->
+<g id="edge11" class="edge">
+<title>Conditional\nStatement--If / Else</title>
+<path fill="none" stroke="#ff0000" d="M1316.9046,-691.3763C1326.9914,-675.434 1339.2859,-656.0022 1347.9892,-642.2465"></path>
+</g>
+<!-- Expression -->
+<g id="node29" class="node">
+<title>Expression</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="1239.0651" cy="-624.7408" rx="58.5867" ry="18"></ellipse>
+<text text-anchor="middle" x="1239.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Expression</text>
+</g>
+<!-- Conditional\nStatement&#45;&#45;Expression -->
+<g id="edge10" class="edge">
+<title>Conditional\nStatement--Expression</title>
+<path fill="none" stroke="#ff0000" d="M1281.2256,-691.3763C1271.2079,-675.5432 1259.0126,-656.2683 1250.3204,-642.53"></path>
+</g>
+<!-- Boolean\nOperator&#45;&#45;Boolean -->
+<g id="edge14" class="edge">
+<title>Boolean\nOperator--Boolean</title>
+<path fill="none" stroke="#ff0000" d="M1203.805,-417.9819C1193.2001,-413.7797 1181.7631,-409.4136 1171.0651,-405.6626 1123.6178,-389.0261 1068.0334,-372.5493 1031.9929,-362.2544"></path>
+</g>
+<!-- Compound\nExpression -->
+<g id="node30" class="node">
+<title>Compound\nExpression</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="1245.0651" cy="-529.9095" rx="60.0402" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="1245.0651" y="-534.1095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Compound</text>
+<text text-anchor="middle" x="1245.0651" y="-517.3095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Expression</text>
+</g>
+<!-- Expression&#45;&#45;Compound\nExpression -->
+<g id="edge12" class="edge">
+<title>Expression--Compound\nExpression</title>
+<path fill="none" stroke="#ff0000" d="M1240.222,-606.4564C1241.0665,-593.1085 1242.2292,-574.732 1243.2036,-559.3301"></path>
+</g>
+<!-- Compound\nExpression&#45;&#45;Boolean\nOperator -->
+<g id="edge13" class="edge">
+<title>Compound\nExpression--Boolean\nOperator</title>
+<path fill="none" stroke="#ff0000" d="M1245.0651,-500.4241C1245.0651,-489.0062 1245.0651,-475.9615 1245.0651,-464.5454"></path>
+</g>
+<!-- Constant -->
+<g id="node32" class="node">
+<title>Constant</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="628.0651" cy="-624.7408" rx="49.8543" ry="18"></ellipse>
+<text text-anchor="middle" x="628.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Constant</text>
+</g>
+<!-- Field&#45;&#45;Constant -->
+<g id="edge37" class="edge">
+<title>Field--Constant</title>
+<path fill="none" stroke="#ff0000" d="M581.5198,-702.1785C591.7401,-685.1749 607.2201,-659.4208 617.4837,-642.3452"></path>
+</g>
+<!-- Variable -->
+<g id="node33" class="node">
+<title>Variable</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="514.0651" cy="-624.7408" rx="46.401" ry="18"></ellipse>
+<text text-anchor="middle" x="514.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Variable</text>
+</g>
+<!-- Field&#45;&#45;Variable -->
+<g id="edge38" class="edge">
+<title>Field--Variable</title>
+<path fill="none" stroke="#ff0000" d="M560.6104,-702.1785C550.3901,-685.1749 534.9101,-659.4208 524.6465,-642.3452"></path>
+</g>
+<!-- Group -->
+<g id="node55" class="node">
+<title>Group</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="402.0651" cy="-624.7408" rx="37.7371" ry="18"></ellipse>
+<text text-anchor="middle" x="402.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Group</text>
+</g>
+<!-- Field&#45;&#45;Group -->
+<g id="edge39" class="edge">
+<title>Field--Group</title>
+<path fill="none" stroke="#ff0000" d="M548.273,-706.7827C516.5588,-688.9868 459.3455,-656.8827 426.6843,-638.5554"></path>
+</g>
+<!-- Datatype -->
+<g id="node56" class="node">
+<title>Datatype</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="514.0651" cy="-529.9095" rx="49.8543" ry="18"></ellipse>
+<text text-anchor="middle" x="514.0651" y="-525.7095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Datatype</text>
+</g>
+<!-- Constant&#45;&#45;Datatype -->
+<g id="edge40" class="edge">
+<title>Constant--Datatype</title>
+<path fill="none" stroke="#ff0000" d="M608.2078,-608.2224C587.4115,-590.9229 554.9315,-563.9043 534.0773,-546.5567"></path>
+</g>
+<!-- Variable&#45;&#45;Datatype -->
+<g id="edge41" class="edge">
+<title>Variable--Datatype</title>
+<path fill="none" stroke="#ff0000" d="M514.0651,-606.4564C514.0651,-589.6639 514.0651,-564.9125 514.0651,-548.1378"></path>
+</g>
+<!-- While -->
+<g id="node34" class="node">
+<title>While</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="2333.0651" cy="-529.9095" rx="35.3489" ry="18"></ellipse>
+<text text-anchor="middle" x="2333.0651" y="-525.7095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">While</text>
+</g>
+<!-- For -->
+<g id="node35" class="node">
+<title>For</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="2289.0651" cy="-435.0782" rx="27" ry="18"></ellipse>
+<text text-anchor="middle" x="2289.0651" y="-430.8782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">For</text>
+</g>
+<!-- While&#45;&#45;For -->
+<g id="edge27" class="edge">
+<title>While--For</title>
+<path fill="none" stroke="#ff0000" d="M2324.789,-512.0725C2316.8727,-495.0108 2305.0092,-469.4418 2297.1554,-452.5149"></path>
+</g>
+<!-- Iterator -->
+<g id="node36" class="node">
+<title>Iterator</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="2376.0651" cy="-435.0782" rx="41.7443" ry="18"></ellipse>
+<text text-anchor="middle" x="2376.0651" y="-430.8782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Iterator</text>
+</g>
+<!-- While&#45;&#45;Iterator -->
+<g id="edge28" class="edge">
+<title>While--Iterator</title>
+<path fill="none" stroke="#ff0000" d="M2341.1531,-512.0725C2348.8408,-495.1181 2360.3377,-469.7631 2368.0134,-452.8353"></path>
+</g>
+<!-- For&#45;each -->
+<g id="node37" class="node">
+<title>For-each</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="2376.0651" cy="-351.6626" rx="49.8349" ry="18"></ellipse>
+<text text-anchor="middle" x="2376.0651" y="-347.4626" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">For-each</text>
+</g>
+<!-- Iterator&#45;&#45;For&#45;each -->
+<g id="edge29" class="edge">
+<title>Iterator--For-each</title>
+<path fill="none" stroke="#ff0000" d="M2376.0651,-416.9783C2376.0651,-402.9867 2376.0651,-383.7099 2376.0651,-369.7272"></path>
+</g>
+<!-- java -->
+<g id="node38" class="node">
+<title>java</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="1525.0651" cy="-624.7408" rx="28.991" ry="18"></ellipse>
+<text text-anchor="middle" x="1525.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">java</text>
+</g>
+<!-- java&#45;&#45;Main -->
+<g id="edge75" class="edge">
+<title>java--Main</title>
+<path fill="none" stroke="#ff0000" d="M1504.1479,-612.3432C1473.9075,-594.4199 1418.2191,-561.4136 1387.273,-543.072"></path>
+</g>
+<!-- JVM -->
+<g id="node70" class="node">
+<title>JVM</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1526.0651" cy="-529.9095" rx="30.1977" ry="18"></ellipse>
+<text text-anchor="middle" x="1526.0651" y="-525.7095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">JVM</text>
+</g>
+<!-- java&#45;&#45;JVM -->
+<g id="edge74" class="edge">
+<title>java--JVM</title>
+<path fill="none" stroke="#ff0000" d="M1525.2579,-606.4564C1525.435,-589.6639 1525.696,-564.9125 1525.8729,-548.1378"></path>
+</g>
+<!-- javac -->
+<g id="node39" class="node">
+<title>javac</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="2035.0651" cy="-624.7408" rx="33.646" ry="18"></ellipse>
+<text text-anchor="middle" x="2035.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">javac</text>
+</g>
+<!-- Intent -->
+<g id="node85" class="node">
+<title>Intent</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2881.0651" cy="-624.7408" rx="35.3858" ry="18"></ellipse>
+<text text-anchor="middle" x="2881.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Intent</text>
+</g>
+<!-- Comment&#45;&#45;Intent -->
+<g id="edge99" class="edge">
+<title>Comment--Intent</title>
+<path fill="none" stroke="#ff0000" d="M2881.0651,-701.2876C2881.0651,-684.4952 2881.0651,-659.7438 2881.0651,-642.9691"></path>
+</g>
+<!-- Self\nDocumenting -->
+<g id="node86" class="node">
+<title>Self\nDocumenting</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="3004.0651" cy="-624.7408" rx="69.7437" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="3004.0651" y="-628.9408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Self</text>
+<text text-anchor="middle" x="3004.0651" y="-612.1408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Documenting</text>
+</g>
+<!-- Comment&#45;&#45;Self\nDocumenting -->
+<g id="edge100" class="edge">
+<title>Comment--Self\nDocumenting</title>
+<path fill="none" stroke="#ff0000" d="M2902.4901,-703.0537C2921.2115,-688.6198 2948.7086,-667.4199 2970.3735,-650.7165"></path>
+</g>
+<!-- Unit\nTest -->
+<g id="node42" class="node">
+<title>Unit\nTest</title>
+<ellipse fill="#ffc0cb" stroke="#ffffff" cx="2420.0651" cy="-624.7408" rx="30.6307" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="2420.0651" y="-628.9408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Unit</text>
+<text text-anchor="middle" x="2420.0651" y="-612.1408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Test</text>
+</g>
+<!-- Test\nSuite -->
+<g id="node82" class="node">
+<title>Test\nSuite</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2420.0651" cy="-529.9095" rx="33.7399" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="2420.0651" y="-534.1095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Test</text>
+<text text-anchor="middle" x="2420.0651" y="-517.3095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Suite</text>
+</g>
+<!-- Unit\nTest&#45;&#45;Test\nSuite -->
+<g id="edge94" class="edge">
+<title>Unit\nTest--Test\nSuite</title>
+<path fill="none" stroke="#ff0000" d="M2420.0651,-595.2554C2420.0651,-583.8375 2420.0651,-570.7928 2420.0651,-559.3766"></path>
+</g>
+<!-- TDD -->
+<g id="node83" class="node">
+<title>TDD</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2503.0651" cy="-529.9095" rx="30.7577" ry="18"></ellipse>
+<text text-anchor="middle" x="2503.0651" y="-525.7095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">TDD</text>
+</g>
+<!-- Unit\nTest&#45;&#45;TDD -->
+<g id="edge95" class="edge">
+<title>Unit\nTest--TDD</title>
+<path fill="none" stroke="#ff0000" d="M2440.1571,-601.7848C2455.2218,-584.5727 2475.4693,-561.439 2488.8765,-546.1206"></path>
+</g>
+<!-- Assert -->
+<g id="node84" class="node">
+<title>Assert</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2590.0651" cy="-529.9095" rx="38.3011" ry="18"></ellipse>
+<text text-anchor="middle" x="2590.0651" y="-525.7095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Assert</text>
+</g>
+<!-- Unit\nTest&#45;&#45;Assert -->
+<g id="edge96" class="edge">
+<title>Unit\nTest--Assert</title>
+<path fill="none" stroke="#ff0000" d="M2443.779,-605.4371C2448.6867,-601.8524 2453.9297,-598.3035 2459.0651,-595.3251 2494.2011,-574.9477 2507.0763,-578.1555 2543.0651,-559.3251 2551.4236,-554.9517 2560.2703,-549.616 2568.0065,-544.6956"></path>
+</g>
+<!-- Object -->
+<g id="node45" class="node">
+<title>Object</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1507.0651" cy="-435.0782" rx="38.8806" ry="18"></ellipse>
+<text text-anchor="middle" x="1507.0651" y="-430.8782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Object</text>
+</g>
+<!-- Instance\nMethod&#45;&#45;Object -->
+<g id="edge22" class="edge">
+<title>Instance\nMethod--Object</title>
+<path fill="none" stroke="#ff0000" d="M1122.8118,-515.7869C1139.3427,-510.5959 1158.4831,-504.9126 1176.0651,-500.4939 1281.7319,-473.9374 1408.5842,-451.4383 1470.0561,-441.1197"></path>
+</g>
+<!-- Lifecycle -->
+<g id="node71" class="node">
+<title>Lifecycle</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1509.0651" cy="-351.6626" rx="48.6926" ry="18"></ellipse>
+<text text-anchor="middle" x="1509.0651" y="-347.4626" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Lifecycle</text>
+</g>
+<!-- Object&#45;&#45;Lifecycle -->
+<g id="edge77" class="edge">
+<title>Object--Lifecycle</title>
+<path fill="none" stroke="#ff0000" d="M1507.4991,-416.9783C1507.8345,-402.9867 1508.2967,-383.7099 1508.632,-369.7272"></path>
+</g>
+<!-- Behaviour -->
+<g id="node47" class="node">
+<title>Behaviour</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2224.0651" cy="-624.7408" rx="54.5087" ry="18"></ellipse>
+<text text-anchor="middle" x="2224.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Behaviour</text>
+</g>
+<!-- Iteration&#45;&#45;Behaviour -->
+<g id="edge24" class="edge">
+<title>Iteration--Behaviour</title>
+<path fill="none" stroke="#ff0000" d="M2224.0651,-701.2876C2224.0651,-684.4952 2224.0651,-659.7438 2224.0651,-642.9691"></path>
+</g>
+<!-- Loops -->
+<g id="node48" class="node">
+<title>Loops</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2334.0651" cy="-624.7408" rx="37.177" ry="18"></ellipse>
+<text text-anchor="middle" x="2334.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Loops</text>
+</g>
+<!-- Iteration&#45;&#45;Loops -->
+<g id="edge25" class="edge">
+<title>Iteration--Loops</title>
+<path fill="none" stroke="#ff0000" d="M2243.2256,-703.0537C2263.5385,-685.5419 2295.4034,-658.0711 2315.4906,-640.7539"></path>
+</g>
+<!-- Stages -->
+<g id="node49" class="node">
+<title>Stages</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1999.0651" cy="-529.9095" rx="41.1877" ry="18"></ellipse>
+<text text-anchor="middle" x="1999.0651" y="-525.7095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Stages</text>
+</g>
+<!-- Behaviour&#45;&#45;Stages -->
+<g id="edge30" class="edge">
+<title>Behaviour--Stages</title>
+<path fill="none" stroke="#ff0000" d="M2193.4546,-609.7867C2182.979,-604.9071 2171.1145,-599.6391 2160.0651,-595.3251 2111.7535,-576.4632 2096.3634,-580.6007 2049.0651,-559.3251 2039.972,-555.2349 2030.4343,-549.9091 2022.1557,-544.915"></path>
+</g>
+<!-- Correctness -->
+<g id="node50" class="node">
+<title>Correctness</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2121.0651" cy="-529.9095" rx="63.1595" ry="18"></ellipse>
+<text text-anchor="middle" x="2121.0651" y="-525.7095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Correctness</text>
+</g>
+<!-- Behaviour&#45;&#45;Correctness -->
+<g id="edge31" class="edge">
+<title>Behaviour--Correctness</title>
+<path fill="none" stroke="#ff0000" d="M2205.6508,-607.7868C2187.1342,-590.7388 2158.7221,-564.58 2140.0169,-547.3582"></path>
+</g>
+<!-- Infinity -->
+<g id="node51" class="node">
+<title>Infinity</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2241.0651" cy="-529.9095" rx="38.8767" ry="18"></ellipse>
+<text text-anchor="middle" x="2241.0651" y="-525.7095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Infinity</text>
+</g>
+<!-- Behaviour&#45;&#45;Infinity -->
+<g id="edge32" class="edge">
+<title>Behaviour--Infinity</title>
+<path fill="none" stroke="#ff0000" d="M2227.3429,-606.4564C2230.3532,-589.6639 2234.7903,-564.9125 2237.7974,-548.1378"></path>
+</g>
+<!-- Loops&#45;&#45;While -->
+<g id="edge26" class="edge">
+<title>Loops--While</title>
+<path fill="none" stroke="#ff0000" d="M2333.8723,-606.4564C2333.6952,-589.6639 2333.4342,-564.9125 2333.2573,-548.1378"></path>
+</g>
+<!-- Initialisation -->
+<g id="node52" class="node">
+<title>Initialisation</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1863.0651" cy="-435.0782" rx="61.4437" ry="18"></ellipse>
+<text text-anchor="middle" x="1863.0651" y="-430.8782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Initialisation</text>
+</g>
+<!-- Stages&#45;&#45;Initialisation -->
+<g id="edge33" class="edge">
+<title>Stages--Initialisation</title>
+<path fill="none" stroke="#ff0000" d="M1976.9117,-514.4622C1952.2238,-497.2476 1912.4446,-469.51 1887.0417,-451.7968"></path>
+</g>
+<!-- Evaluation -->
+<g id="node53" class="node">
+<title>Evaluation</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1999.0651" cy="-435.0782" rx="56.2324" ry="18"></ellipse>
+<text text-anchor="middle" x="1999.0651" y="-430.8782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Evaluation</text>
+</g>
+<!-- Stages&#45;&#45;Evaluation -->
+<g id="edge34" class="edge">
+<title>Stages--Evaluation</title>
+<path fill="none" stroke="#ff0000" d="M1999.0651,-511.6251C1999.0651,-494.8326 1999.0651,-470.0812 1999.0651,-453.3065"></path>
+</g>
+<!-- Modification -->
+<g id="node54" class="node">
+<title>Modification</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2136.0651" cy="-435.0782" rx="62.5914" ry="18"></ellipse>
+<text text-anchor="middle" x="2136.0651" y="-430.8782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Modification</text>
+</g>
+<!-- Stages&#45;&#45;Modification -->
+<g id="edge35" class="edge">
+<title>Stages--Modification</title>
+<path fill="none" stroke="#ff0000" d="M2021.0765,-514.6732C2045.8858,-497.5002 2086.0996,-469.6643 2111.7991,-451.8751"></path>
+</g>
+<!-- Group&#45;&#45;Datatype -->
+<g id="edge42" class="edge">
+<title>Group--Datatype</title>
+<path fill="none" stroke="#ff0000" d="M420.8114,-608.8682C441.2368,-591.5737 473.7635,-564.0331 494.5042,-546.4719"></path>
+</g>
+<!-- Fixed -->
+<g id="node57" class="node">
+<title>Fixed</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="402.0651" cy="-529.9095" rx="34.7883" ry="18"></ellipse>
+<text text-anchor="middle" x="402.0651" y="-525.7095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Fixed</text>
+</g>
+<!-- Group&#45;&#45;Fixed -->
+<g id="edge43" class="edge">
+<title>Group--Fixed</title>
+<path fill="none" stroke="#ff0000" d="M402.0651,-606.4564C402.0651,-589.6639 402.0651,-564.9125 402.0651,-548.1378"></path>
+</g>
+<!-- Dynamic -->
+<g id="node58" class="node">
+<title>Dynamic</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="227.0651" cy="-529.9095" rx="48.6752" ry="18"></ellipse>
+<text text-anchor="middle" x="227.0651" y="-525.7095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Dynamic</text>
+</g>
+<!-- Group&#45;&#45;Dynamic -->
+<g id="edge44" class="edge">
+<title>Group--Dynamic</title>
+<path fill="none" stroke="#ff0000" d="M376.9919,-611.1538C344.575,-593.5873 288.3052,-563.0951 254.6903,-544.8794"></path>
+</g>
+<!-- Datatype&#45;&#45;Boolean -->
+<g id="edge52" class="edge">
+<title>Datatype--Boolean</title>
+<path fill="none" stroke="#ff0000" d="M548.9722,-516.9468C637.9628,-483.9004 872.4677,-396.8175 960.2523,-364.2189"></path>
+</g>
+<!-- Numbers -->
+<g id="node60" class="node">
+<title>Numbers</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="494.0651" cy="-435.0782" rx="50.3994" ry="18"></ellipse>
+<text text-anchor="middle" x="494.0651" y="-430.8782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Numbers</text>
+</g>
+<!-- Datatype&#45;&#45;Numbers -->
+<g id="edge50" class="edge">
+<title>Datatype--Numbers</title>
+<path fill="none" stroke="#ff0000" d="M510.2089,-511.6251C506.6673,-494.8326 501.4473,-470.0812 497.9095,-453.3065"></path>
+</g>
+<!-- Text -->
+<g id="node61" class="node">
+<title>Text</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="592.0651" cy="-435.0782" rx="29.6339" ry="18"></ellipse>
+<text text-anchor="middle" x="592.0651" y="-430.8782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Text</text>
+</g>
+<!-- Datatype&#45;&#45;Text -->
+<g id="edge51" class="edge">
+<title>Datatype--Text</title>
+<path fill="none" stroke="#ff0000" d="M528.3715,-512.516C542.7091,-495.0845 564.6107,-468.4568 578.6315,-451.4106"></path>
+</g>
+<!-- Fixed&#45;&#45;Array -->
+<g id="edge45" class="edge">
+<title>Fixed--Array</title>
+<path fill="none" stroke="#ff0000" d="M400.137,-511.6251C398.3662,-494.8326 395.7562,-470.0812 393.9873,-453.3065"></path>
+</g>
+<!-- Collection -->
+<g id="node59" class="node">
+<title>Collection</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="223.0651" cy="-435.0782" rx="53.3437" ry="18"></ellipse>
+<text text-anchor="middle" x="223.0651" y="-430.8782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Collection</text>
+</g>
+<!-- Dynamic&#45;&#45;Collection -->
+<g id="edge46" class="edge">
+<title>Dynamic--Collection</title>
+<path fill="none" stroke="#ff0000" d="M226.2939,-511.6251C225.5855,-494.8326 224.5415,-470.0812 223.834,-453.3065"></path>
+</g>
+<!-- Collection&#45;&#45;HashMap -->
+<g id="edge49" class="edge">
+<title>Collection--HashMap</title>
+<path fill="none" stroke="#ff0000" d="M235.5775,-417.3879C245.59,-403.232 259.563,-383.4766 269.5708,-369.3274"></path>
+</g>
+<!-- Collection&#45;&#45;HashSet -->
+<g id="edge48" class="edge">
+<title>Collection--HashSet</title>
+<path fill="none" stroke="#ff0000" d="M192.1814,-420.3572C159.8989,-404.9694 109.5979,-380.9928 77.7646,-365.8192"></path>
+</g>
+<!-- Collection&#45;&#45;ArrayList -->
+<g id="edge47" class="edge">
+<title>Collection--ArrayList</title>
+<path fill="none" stroke="#ff0000" d="M210.3406,-417.3879C200.1584,-403.232 185.9486,-383.4766 175.7712,-369.3274"></path>
+</g>
+<!-- Numbers&#45;&#45;Double -->
+<g id="edge54" class="edge">
+<title>Numbers--Double</title>
+<path fill="none" stroke="#ff0000" d="M494.0651,-416.9783C494.0651,-402.9867 494.0651,-383.7099 494.0651,-369.7272"></path>
+</g>
+<!-- Numbers&#45;&#45;Integer -->
+<g id="edge53" class="edge">
+<title>Numbers--Integer</title>
+<path fill="none" stroke="#ff0000" d="M473.6262,-418.1978C455.7573,-403.4399 429.9935,-382.1616 412.4455,-367.6688"></path>
+</g>
+<!-- Text&#45;&#45;String -->
+<g id="edge56" class="edge">
+<title>Text--String</title>
+<path fill="none" stroke="#ff0000" d="M607.1125,-419.3884C621.1436,-404.7581 641.9951,-383.0164 656.2641,-368.1381"></path>
+</g>
+<!-- Text&#45;&#45;Char -->
+<g id="edge55" class="edge">
+<title>Text--Char</title>
+<path fill="none" stroke="#ff0000" d="M590.7632,-416.9783C589.7568,-402.9867 588.3702,-383.7099 587.3645,-369.7272"></path>
+</g>
+<!-- Reference\nType&#45;&#45;Class -->
+<g id="edge59" class="edge">
+<title>Reference\nType--Class</title>
+<path fill="none" stroke="#ff0000" d="M686.8633,-239.54C693.1796,-227.2869 700.3534,-213.3704 705.885,-202.6397"></path>
+</g>
+<!-- Compilation&#45;&#45;javac -->
+<g id="edge82" class="edge">
+<title>Compilation--javac</title>
+<path fill="none" stroke="#ff0000" d="M1970.9244,-701.735C1985.4059,-684.3515 2007.2445,-658.1365 2021.3297,-641.2287"></path>
+</g>
+<!-- Error -->
+<g id="node75" class="node">
+<title>Error</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2119.0651" cy="-624.7408" rx="32.4788" ry="18"></ellipse>
+<text text-anchor="middle" x="2119.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Error</text>
+</g>
+<!-- Compilation&#45;&#45;Error -->
+<g id="edge83" class="edge">
+<title>Compilation--Error</title>
+<path fill="none" stroke="#ff0000" d="M1987.7879,-703.9967C2012.7918,-691.3808 2048.2853,-672.7135 2078.0651,-654.1564 2085.3515,-649.6159 2093.0676,-644.241 2099.8167,-639.336"></path>
+</g>
+<!-- Runtime&#45;&#45;java -->
+<g id="edge72" class="edge">
+<title>Runtime--java</title>
+<path fill="none" stroke="#ff0000" d="M1502.4638,-701.2876C1507.4537,-684.3875 1514.8239,-659.4261 1519.7779,-642.6475"></path>
+</g>
+<!-- Runtime&#45;&#45;Object -->
+<g id="edge71" class="edge">
+<title>Runtime--Object</title>
+<path fill="none" stroke="#ff0000" d="M1493.5673,-701.6086C1491.2015,-688.5131 1488.2926,-670.3091 1487.0651,-654.1564 1481.8901,-586.0583 1476.9703,-568.0381 1487.0651,-500.4939 1489.5402,-483.9329 1495.356,-465.7704 1500.0817,-452.7944"></path>
+</g>
+<!-- Garbage\nCollection -->
+<g id="node69" class="node">
+<title>Garbage\nCollection</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1474.0651" cy="-29.4156" rx="54.5282" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="1474.0651" y="-33.6156" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Garbage</text>
+<text text-anchor="middle" x="1474.0651" y="-16.8156" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Collection</text>
+</g>
+<!-- Runtime&#45;&#45;Garbage\nCollection -->
+<g id="edge73" class="edge">
+<title>Runtime--Garbage\nCollection</title>
+<path fill="none" stroke="#ff0000" d="M1486.3004,-701.9997C1467.361,-669.3576 1430.0651,-596.6099 1430.0651,-529.9095 1430.0651,-529.9095 1430.0651,-529.9095 1430.0651,-184.8313 1430.0651,-139.2624 1447.7939,-88.9234 1460.7442,-58.2311"></path>
+</g>
+<!-- JVM&#45;&#45;Object -->
+<g id="edge76" class="edge">
+<title>JVM--Object</title>
+<path fill="none" stroke="#ff0000" d="M1522.4017,-511.6251C1519.0372,-494.8326 1514.0782,-470.0812 1510.7172,-453.3065"></path>
+</g>
+<!-- Creation -->
+<g id="node72" class="node">
+<title>Creation</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1514.0651" cy="-268.2469" rx="47.5448" ry="18"></ellipse>
+<text text-anchor="middle" x="1514.0651" y="-264.0469" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Creation</text>
+</g>
+<!-- Lifecycle&#45;&#45;Creation -->
+<g id="edge78" class="edge">
+<title>Lifecycle--Creation</title>
+<path fill="none" stroke="#ff0000" d="M1510.15,-333.5626C1510.9887,-319.571 1512.1442,-300.2942 1512.9823,-286.3116"></path>
+</g>
+<!-- State -->
+<g id="node73" class="node">
+<title>State</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1517.0651" cy="-184.8313" rx="33.6615" ry="18"></ellipse>
+<text text-anchor="middle" x="1517.0651" y="-180.6313" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">State</text>
+</g>
+<!-- Creation&#45;&#45;State -->
+<g id="edge79" class="edge">
+<title>Creation--State</title>
+<path fill="none" stroke="#ff0000" d="M1514.7161,-250.147C1515.2193,-236.1554 1515.9125,-216.8786 1516.4154,-202.8959"></path>
+</g>
+<!-- Destruction -->
+<g id="node74" class="node">
+<title>Destruction</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="1518.0651" cy="-112.8313" rx="59.7263" ry="18"></ellipse>
+<text text-anchor="middle" x="1518.0651" y="-108.6313" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Destruction</text>
+</g>
+<!-- State&#45;&#45;Destruction -->
+<g id="edge80" class="edge">
+<title>State--Destruction</title>
+<path fill="none" stroke="#ff0000" d="M1517.3174,-166.6626C1517.4679,-155.8313 1517.6583,-142.1189 1517.8094,-131.2446"></path>
+</g>
+<!-- Destruction&#45;&#45;Garbage\nCollection -->
+<g id="edge81" class="edge">
+<title>Destruction--Garbage\nCollection</title>
+<path fill="none" stroke="#ff0000" d="M1508.5178,-94.7313C1502.8562,-83.9981 1495.554,-70.1546 1489.1305,-57.9767"></path>
+</g>
+<!-- Bug&#45;&#45;Unit\nTest -->
+<g id="edge89" class="edge">
+<title>Bug--Unit\nTest</title>
+<path fill="none" stroke="#ff0000" d="M2463.3441,-702.1785C2455.3351,-687.8484 2443.8527,-667.3032 2434.7274,-650.9756"></path>
+</g>
+<!-- Debugging -->
+<g id="node78" class="node">
+<title>Debugging</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2526.0651" cy="-624.7408" rx="57.9585" ry="18"></ellipse>
+<text text-anchor="middle" x="2526.0651" y="-620.5408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Debugging</text>
+</g>
+<!-- Bug&#45;&#45;Debugging -->
+<g id="edge90" class="edge">
+<title>Bug--Debugging</title>
+<path fill="none" stroke="#ff0000" d="M2482.7861,-702.1785C2492.2295,-685.2818 2506.502,-659.7444 2516.0456,-642.6684"></path>
+</g>
+<!-- Positive\nNegative -->
+<g id="node80" class="node">
+<title>Positive\nNegative</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2652.0651" cy="-624.7408" rx="50.2407" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="2652.0651" y="-628.9408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Positive</text>
+<text text-anchor="middle" x="2652.0651" y="-612.1408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Negative</text>
+</g>
+<!-- Strategy&#45;&#45;Positive\nNegative -->
+<g id="edge92" class="edge">
+<title>Strategy--Positive\nNegative</title>
+<path fill="none" stroke="#ff0000" d="M2652.0651,-701.2876C2652.0651,-687.9398 2652.0651,-669.5633 2652.0651,-654.1613"></path>
+</g>
+<!-- Boundary\nExtreme -->
+<g id="node81" class="node">
+<title>Boundary\nExtreme</title>
+<ellipse fill="#ffffff" stroke="#ffffff" cx="2774.0651" cy="-624.7408" rx="53.8538" ry="29.3315"></ellipse>
+<text text-anchor="middle" x="2774.0651" y="-628.9408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Boundary</text>
+<text text-anchor="middle" x="2774.0651" y="-612.1408" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Extreme</text>
+</g>
+<!-- Strategy&#45;&#45;Boundary\nExtreme -->
+<g id="edge93" class="edge">
+<title>Strategy--Boundary\nExtreme</title>
+<path fill="none" stroke="#ff0000" d="M2673.0376,-703.27C2692.2498,-688.3363 2720.9462,-666.0304 2742.8512,-649.0035"></path>
+</g>
+</g>
+</svg>
