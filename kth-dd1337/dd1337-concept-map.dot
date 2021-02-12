@@ -1,7 +1,7 @@
 graph G {
 
-    bgcolor="#282c34"
-    node [color="white", fontcolor="black", fillcolor="white", style="filled", fontname="Helvetica"]
+    bgcolor="white"
+    node [color="gray", fontcolor="black", fillcolor="white", style="filled", fontname="Helvetica"]
     edge [color="red"]
 
     // Concepts
