@@ -1,0 +1,24 @@
+graph G {
+
+    bgcolor="white"
+    node [color="gray", fontcolor="black", fillcolor="white", style="filled", fontname="Helvetica"]
+    edge [color="red"]
+
+    // Concepts
+    "Key Concepts" [fillcolor="yellow"]
+    Algorithms [fillcolor="yellow"]
+    Complexity [fillcolor="yellow"]
+    Correctness [fillcolor="yellow"]
+    "Abstract Data Types" [fillcolor="yellow"]
+    "Empirical Evaluation" [fillcolor="yellow"]
+
+    // Key Concepts
+    "Key Concepts" -- Algorithms, Complexity, Correctness, "Abstract Data Types", "Empirical Evaluation"
+
+
+    // Algorithms
+    Algorithms -- Definition, Iterative, Recursive
+    Recursive -- Design, Problems
+    Design --  "Recursive Case", "Base Case"
+    Problems -- "Memory Cost", "Stack Overflow"
+}
