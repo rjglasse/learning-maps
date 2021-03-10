@@ -30,6 +30,8 @@ graph G {
     Constant [fillcolor="pink"]
     Variable [fillcolor="pink"]
     Class [fillcolor="pink"]
+    Public [fillcolor="pink"]
+    Private [fillcolor="pink"]
     /* "If / Else" [fillcolor="pink"]
     Main  [fillcolor="pink"]
     Method [fillcolor="pink"]
@@ -78,9 +80,14 @@ graph G {
     Stages -- Initialisation, Evaluation, Modification */
 
     // Store
-    Store -- Field -- Constant, Variable, Group -- Datatype
-    Group -- Fixed, Dynamic
-    Fixed -- Array
+    Store -- Field
+    Field -- "Access\nModifier" -- Public, Private
+    Field -- Cardinality
+    Cardinality -- Single, Group -- Variable
+    Single -- Constant
+    Variable -- Datatype
+    Group -- "Fixed-size", Dynamic
+    "Fixed-size" -- Array
     Dynamic -- Collection
     Collection -- ArrayList, HashSet, HashMap
     Datatype -- Numbers, Text, Boolean
@@ -91,6 +98,9 @@ graph G {
     Integer, Boolean, Char, Double -- "Primative\nType"
     ArrayList, HashSet, HashMap -- "Generic\nType"
     Array -- "Reference\nType"
+    "Primative\nType" -- "Wrapper\nClass"
+    "Wrapper\nClass" -- Class
+    "Generic\nType" -- Class
 
     // Evaluate
     /* Evaluate -- Compilation, Runtime, Operator, "Method\nCalling"
