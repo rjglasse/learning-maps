@@ -1,0 +1,112 @@
+graph G {
+
+    bgcolor="white"
+    node [color="gray", fontcolor="black", fillcolor="white", style="filled", fontname="Helvetica"]
+    edge [color="red"]
+
+    // Concepts
+    "Key Concepts" [fillcolor="yellow"]
+    Organise [fillcolor="yellow"]
+    Decide [fillcolor="yellow"]
+    Repeat [fillcolor="yellow"]
+    Store [fillcolor="yellow"]
+    Evaluate [fillcolor="yellow"]
+    Test [fillcolor="yellow"]
+    Document [fillcolor="yellow"]
+
+    // Types
+    Array [fillcolor="cyan"]
+    HashMap [fillcolor="cyan"]
+    HashSet [fillcolor="cyan"]
+    ArrayList [fillcolor="cyan"]
+    String [fillcolor="cyan"]
+    Char [fillcolor="cyan"]
+    Double [fillcolor="cyan"]
+    Boolean [fillcolor="cyan"]
+    Integer [fillcolor="cyan"]
+
+    // Concrete
+    Field [fillcolor="pink"]
+    Constant [fillcolor="pink"]
+    Variable [fillcolor="pink"]
+    Class [fillcolor="pink"]
+    /* "If / Else" [fillcolor="pink"]
+    Main  [fillcolor="pink"]
+    Method [fillcolor="pink"]
+    Constructor [fillcolor="pink"]
+    Statement  [fillcolor="pink"]
+    Operator [fillcolor="pink"]
+    "Conditional\nStatement" [fillcolor="pink"]
+    "Boolean\nOperator" [fillcolor="pink"]
+    "Arithmetic\nOperator" [fillcolor="pink"]
+    "Equality\nOperator" [fillcolor="pink"]
+    Expression [fillcolor="pink"]
+    "Compound\nExpression" [fillcolor="pink"]
+    While [fillcolor="pink"]
+    For [fillcolor="pink"]
+    Iterator [fillcolor="pink"]
+    "For-each" [fillcolor="pink"]
+    java [fillcolor="pink"]
+    javac [fillcolor="pink"]
+    javadoc [fillcolor="pink"]
+    Comment [fillcolor="pink"]
+    "Unit\nTest" [fillcolor="pink"] */
+
+
+    "Key Concepts" -- Organise, Decide, Repeat, Store, Evaluate, Test, Document
+
+    // Decide
+    /* Decide -- "Conditional\nStatement"
+    "Conditional\nStatement" -- Boolean, Expression, "If / Else"
+    Expression -- "Compound\nExpression"
+    "Compound\nExpression" -- "Boolean\nOperator"
+    "Boolean\nOperator" -- Boolean */
+
+    // Organise
+    /* Organise -- Class, Method, Statement
+    Method -- Constructor, Main, "Instance\nMethod", "Class\nMethod"
+    "Instance\nMethod" -- Object */
+
+
+    // Repeat
+    /* Repeat -- Iteration
+    Iteration -- Behaviour, Loops
+    Loops -- While
+    While -- For, Iterator
+    Iterator -- "For-each"
+    Behaviour -- Stages, Correctness, Infinity
+    Stages -- Initialisation, Evaluation, Modification */
+
+    // Store
+    Store -- Field -- Constant, Variable, Group -- Datatype
+    Group -- Fixed, Dynamic
+    Fixed -- Array
+    Dynamic -- Collection
+    Collection -- ArrayList, HashSet, HashMap
+    Datatype -- Numbers, Text, Boolean
+    Numbers -- Integer, Double
+    Text -- Char, String
+    String -- Immutability, "Reference\nType"
+    "Reference\nType" -- Class
+    Integer, Boolean, Char, Double -- "Primative\nType"
+    ArrayList, HashSet, HashMap -- "Generic\nType"
+    Array -- "Reference\nType"
+
+    // Evaluate
+    /* Evaluate -- Compilation, Runtime, Operator, "Method\nCalling"
+    Runtime -- Object, java, "Garbage\nCollection"
+    java -- JVM, Main
+    JVM -- Object
+    Object -- Lifecycle -- Creation -- State -- Destruction -- "Garbage\nCollection"
+    Compilation -- javac, Error
+    Operator -- Precedence, "Arithmetic\nOperator", "Equality\nOperator", "Boolean\nOperator" */
+
+    // Test
+    /* Test -- Bug -- "Unit\nTest", Debugging
+    Test -- Strategy -- "Positive\nNegative", "Boundary\nExtreme"
+    "Unit\nTest" -- "Test\nSuite", TDD, Assert */
+
+    // Document
+    /* Document -- javadoc, Comment
+    Comment -- Intent, "Self\nDocumenting" */
+}
