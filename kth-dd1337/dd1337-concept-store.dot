@@ -32,6 +32,7 @@ graph G {
     Class [fillcolor="pink"]
     Public [fillcolor="pink"]
     Private [fillcolor="pink"]
+    "File IO" [fillcolor="lightgray"]
     /* "If / Else" [fillcolor="pink"]
     Main  [fillcolor="pink"]
     Method [fillcolor="pink"]
@@ -80,13 +81,13 @@ graph G {
     Stages -- Initialisation, Evaluation, Modification */
 
     // Store
-    Store -- Field
+    Store -- Field, "File IO"
     Field -- "Access\nModifier" -- Public, Private
     Field -- Cardinality
     Cardinality -- Single, Group -- Variable
     Single -- Constant
-    Variable -- Datatype
-    Group -- "Fixed-size", Dynamic
+    Variable, Constant -- Datatype
+    Group -- Size -- "Fixed-size", Dynamic
     "Fixed-size" -- Array
     Dynamic -- Collection
     Collection -- ArrayList, HashSet, HashMap
@@ -99,8 +100,9 @@ graph G {
     ArrayList, HashSet, HashMap -- "Generic\nType"
     Array -- "Reference\nType"
     "Primative\nType" -- "Wrapper\nClass"
-    "Wrapper\nClass" -- Class
-    "Generic\nType" -- Class
+    "Wrapper\nClass" -- "Reference\nType"
+    "Generic\nType" -- "Reference\nType"
+    Class -- Organise
 
     // Evaluate
     /* Evaluate -- Compilation, Runtime, Operator, "Method\nCalling"
