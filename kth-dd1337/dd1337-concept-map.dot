@@ -26,14 +26,14 @@ graph G {
     Integer [fillcolor="cyan"]
 
     // Concrete
-    "If / Else" [fillcolor="pink"]
     Main  [fillcolor="pink"]
     Method [fillcolor="pink"]
     Constructor [fillcolor="pink"]
     Statement  [fillcolor="pink"]
+    Class [fillcolor="pink"]
+    "If / Else" [fillcolor="pink"]
     Operator [fillcolor="pink"]
     "Conditional\nStatement" [fillcolor="pink"]
-    Class [fillcolor="pink"]
     "Boolean\nOperator" [fillcolor="pink"]
     "Arithmetic\nOperator" [fillcolor="pink"]
     "Equality\nOperator" [fillcolor="pink"]

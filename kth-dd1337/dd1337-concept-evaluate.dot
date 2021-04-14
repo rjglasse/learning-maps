@@ -1,0 +1,70 @@
+graph G {
+
+    bgcolor="white"
+    node [color="gray", fontcolor="black", fillcolor="white", style="filled", fontname="Helvetica"]
+    edge [color="red"]
+
+    // Concepts
+    "Key Concepts" [fillcolor="yellow"]
+    Organise [fillcolor="yellow"]
+    Decide [fillcolor="yellow"]
+    Repeat [fillcolor="yellow"]
+    Store [fillcolor="yellow"]
+    Evaluate [fillcolor="yellow"]
+    Test [fillcolor="yellow"]
+    Document [fillcolor="yellow"]
+
+    // Types
+    Boolean [fillcolor="cyan"]
+
+    // Concrete
+    "Main\nMethod"  [fillcolor="pink"]
+    Method [fillcolor="pink"]
+    "Constructor\nMethod" [fillcolor="pink"]
+    "Class\nMethod" [fillcolor="pink"]
+    "Instance\nMethod" [fillcolor="pink"]
+    Statement  [fillcolor="pink"]
+    Class [fillcolor="pink"]
+    Public [fillcolor="pink"]
+    Private [fillcolor="pink"]
+    java [fillcolor="pink"]
+    Name [fillcolor="pink"]
+    "Method\nCalling" [fillcolor="pink"]
+    Void [fillcolor="pink"]
+    Operator [fillcolor="pink"]
+    Identifier [fillcolor="pink"]
+    /* Body [fillcolor="pink"] */
+    /* Header [fillcolor="pink"] */
+    "Return\nStatement" [fillcolor="pink"]
+
+    "Key Concepts" -- Organise, Decide, Repeat, Store, Evaluate, Test, Document
+
+    // Organise
+    Organise -- Class, Method, Statement
+    "Instance\nMethod" -- Object
+    "Class\nMethod" -- Object
+
+    // Evaluate
+    Evaluate -- Compilation, Runtime, Operator
+    Runtime -- java
+    java -- JVM, "Main\nMethod"
+    JVM -- Object
+    Object -- Lifecycle -- Creation, State, Destruction
+    Destruction -- "Garbage\nCollection"
+
+    Method -- "Method\nStructure", "Method\nType"
+    "Method\nStructure" -- Header, Body
+    "Method\nType" -- "Constructor\nMethod", "Main\nMethod", "Instance\nMethod", "Class\nMethod"
+    Header -- "Access\nModifier", Parameters, "Return\nType", Name
+    Parameters -- Identifier, Datatype
+    "Return\nType" -- Void, Datatype
+    Body -- "Return\nStatement", "Lines of\nCode"
+    "Access\nModifier" -- Public, Private
+    "Constructor\nMethod" -- Creation
+    "Method\nCalling" -- State
+    Name -- Comprehension
+    Datatype -- Boolean
+
+
+
+}
