@@ -33,24 +33,22 @@ graph G {
     Void [fillcolor="pink"]
     Operator [fillcolor="pink"]
     Identifier [fillcolor="pink"]
-    /* Body [fillcolor="pink"] */
-    /* Header [fillcolor="pink"] */
+    Body [fillcolor="pink"]
+    Header [fillcolor="pink"]
     "Return\nStatement" [fillcolor="pink"]
+    "Local\nVariable" [fillcolor="pink"]
 
     "Key Concepts" -- Organise, Decide, Repeat, Store, Evaluate, Test, Document
 
     // Organise
     Organise -- Class, Method, Statement
-    "Instance\nMethod" -- Object
-    "Class\nMethod" -- Object
 
     // Evaluate
     Evaluate -- Compilation, Runtime, Operator
     Runtime -- java
     java -- JVM, "Main\nMethod"
     JVM -- Object
-    Object -- Lifecycle -- Creation, State, Destruction
-    Destruction -- "Garbage\nCollection"
+    Object -- State
 
     Method -- "Method\nStructure", "Method\nType"
     "Method\nStructure" -- Header, Body
@@ -60,10 +58,15 @@ graph G {
     "Return\nType" -- Void, Datatype
     Body -- "Return\nStatement", "Lines of\nCode"
     "Access\nModifier" -- Public, Private
-    "Constructor\nMethod" -- Creation
+    /* "Constructor\nMethod" -- Creation */
     "Method\nCalling" -- State
-    Name -- Comprehension
+    Name -- "Self\nDocumentation"
     Datatype -- Boolean
+    "Class\nMethod" -- "Method\nCalling"
+    "Instance\nMethod" -- "Method\nCalling"
+    "Constructor\nMethod" -- "Method\nCalling"
+    "Constructor\nMethod" -- Creation -- State
+    Body -- "Local\nVariable" -- Scope
 
 
 
